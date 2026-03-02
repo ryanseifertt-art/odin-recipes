@@ -1,2 +1,11 @@
+# allow tracking HTML files even if a global ignore blocks them
+!*.html
+
+# (optional) be explicit for your two files too
+!index.html
+!Simple-Tomato-Soup.html
 !odin-recipes/
 !odin-recipes/**
+!*.html
+!index.html
+!Simple-Tomato-Soup.html
